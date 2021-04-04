@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{2E25E913-E91F-43D5-BF48-62BB778E415F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris.BL", "Tetris.BL\Tetris.BL.csproj", "{7E7E7A0F-5344-49C1-837A-214FA14DA2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris.Test", "Tetris.Test\Tetris.Test.csproj", "{49EB965D-8906-49AD-89D0-C77E9E5F6447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E25E913-E91F-43D5-BF48-62BB778E415F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E25E913-E91F-43D5-BF48-62BB778E415F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E25E913-E91F-43D5-BF48-62BB778E415F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E25E913-E91F-43D5-BF48-62BB778E415F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7E7A0F-5344-49C1-837A-214FA14DA2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7E7A0F-5344-49C1-837A-214FA14DA2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7E7A0F-5344-49C1-837A-214FA14DA2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7E7A0F-5344-49C1-837A-214FA14DA2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EB965D-8906-49AD-89D0-C77E9E5F6447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EB965D-8906-49AD-89D0-C77E9E5F6447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EB965D-8906-49AD-89D0-C77E9E5F6447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EB965D-8906-49AD-89D0-C77E9E5F6447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA866266-F843-4502-9B08-547AA7B6F4EA}
+	EndGlobalSection
+EndGlobal
